@@ -13,3 +13,5 @@ GPU : 1er - Intel(R) Graphics 620 (affichage)
       2eme - Radeo(TM) 520 (rendu)
       
 mahay maka ny tsara @ ilay machine 
+
+mila mihetsiketsika : daty 02/08/2022
